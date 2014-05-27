@@ -1,5 +1,5 @@
 # iOS Externals
-Externals utilities or enhancements for iOS.
+Utilities or enhancements for iOS.
 
 ## JIMUIHelper
 
