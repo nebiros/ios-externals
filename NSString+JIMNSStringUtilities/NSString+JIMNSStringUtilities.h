@@ -16,4 +16,10 @@ extern const int kJIMNSStringUtilitiesRandomStringCapacity;
 + (NSString *)jim_generateRandomString;
 + (NSString *)jim_generateRandomString:(int)capacity;
 
+/**
+ *
+ * @see http://iosdevelopertips.com/core-services/create-md5-hash-from-nsstring-nsdata-or-file.html
+ */
+- (NSString *)jim_MD5;
+
 @end
